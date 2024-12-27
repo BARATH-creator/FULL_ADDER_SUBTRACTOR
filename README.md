@@ -1,4 +1,8 @@
-# FULL_ADDER_SUBTRACTOR
+S.BARATH
+
+REGISTER NUMBER:24001164
+
+[# FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -57,3 +61,4 @@ Thus the Full Adder and Full Subtractor circuits are designed and the truth tabl
 
 
 
+](https://github.com/BARATH-creator/HALF_ADDER_SUBTRACTOR/blob/main/README.md) 
