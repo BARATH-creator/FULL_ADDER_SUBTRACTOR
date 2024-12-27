@@ -1,5 +1,11 @@
 NAME :S.BARATH
+
+
+
 REGISTER NUMBER:24001164
+
+
+
 [# FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
